@@ -1,0 +1,78 @@
+{
+  message: 'User already registered',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: 'Aug-22-2024 12:04:13'
+}
+{
+  message: 'emai is not defined',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: 'Aug-22-2024 12:04:54'
+}
+{
+  message: 'emai is not defined',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: 'Aug-22-2024 12:05:02'
+}
+{
+  message: 'emai is not defined',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: 'Aug-22-2024 12:05:17'
+}
+{
+  message: 'emai is not defined',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: 'Aug-22-2024 12:05:54'
+}
+{
+  message: 'secretOrPrivateKey must have a value',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: 'Aug-22-2024 12:12:09'
+}
+{
+  message: 'secretOrPrivateKey must have a value',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: 'Aug-22-2024 12:13:25'
+}
+{
+  message: 'Todo validation failed: satisfactoryLevel: `0` is not a valid enum value for path `satisfactoryLevel`.',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: 'Sep-04-2024 12:34:28'
+}
+{
+  message: 'User not found.',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: 'Sep-04-2024 12:42:24'
+}
+{
+  message: 'Cannot update status of the Task',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: 'Sep-04-2024 15:34:19'
+}
+{
+  message: 'Cannot update status of the Task',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: 'Sep-04-2024 15:38:10'
+}
+{
+  message: 'Cannot update status of the Task',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: 'Sep-04-2024 15:40:31'
+}
+{
+  message: 'Cannot update status of the Task',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: 'Sep-04-2024 15:41:10'
+}
