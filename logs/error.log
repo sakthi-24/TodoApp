@@ -76,3 +76,9 @@
   label: 'winston custom format',
   timestamp: 'Sep-04-2024 15:41:10'
 }
+{
+  message: 'db already exists with different case already have: [Todo] trying to create [todo]',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: 'Sep-16-2024 12:02:20'
+}
