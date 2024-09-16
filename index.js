@@ -5,11 +5,13 @@ const bodyParser = require('body-parser');
 const cors = require('cors');
 const fs = require('fs');
 const path = require('path');
+const dotenv = require('dotenv');
+dotenv.config();
 
 const app = express();
 const port = process.env.PORT || 3000;
 
-mongoose.connect("mongodb+srv://sakthis:sakthi25@cluster0.wvaczsi.mongodb.net/todo", { useNewUrlParser: true, useUnifiedTopology: true });
+mongoose.connect(process.env.DB_URL);
 
 app.use(cors());
 app.use(bodyParser.json());
